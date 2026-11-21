@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "ci.bfktech.gestolibr",
+    "sha256_cert_fingerprints": ["93:87:A5:57:BD:20:07:61:43:78:4D:A7:90:15:35:9D:70:F4:63:B1:AB:CE:38:F5:CF:46:60:B9:1B:21:5F:C7"]
+  }
+}]

@@ -11,5 +11,17 @@
         "93:87:A5:57:BD:20:07:61:43:78:4D:A7:90:15:35:9D:70:F4:63:B1:AB:CE:38:F5:CF:46:60:B9:1B:21:5F:C7"
       ]
     }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "ci.bfktech.gestomakibar",
+      "sha256_cert_fingerprints": [
+        "E8:A9:F6:AD:8D:13:F8:F9:1B:4C:AF:DA:60:09:F0:D7:2D:DF:56:9E:EA:6D:B7:E5:A0:17:59:3F:0F:4B:EA:CE"
+      ]
+    }
   }
 ]
